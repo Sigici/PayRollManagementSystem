@@ -1,0 +1,25 @@
+C:\Users\DECAGON\source\repos\PayRollManagementSystem\PayRollManagementSystem\bin\Debug\net7.0\PayRollManagementSystem.exe
+C:\Users\DECAGON\source\repos\PayRollManagementSystem\PayRollManagementSystem\bin\Debug\net7.0\PayRollManagementSystem.deps.json
+C:\Users\DECAGON\source\repos\PayRollManagementSystem\PayRollManagementSystem\bin\Debug\net7.0\PayRollManagementSystem.runtimeconfig.json
+C:\Users\DECAGON\source\repos\PayRollManagementSystem\PayRollManagementSystem\bin\Debug\net7.0\PayRollManagementSystem.dll
+C:\Users\DECAGON\source\repos\PayRollManagementSystem\PayRollManagementSystem\bin\Debug\net7.0\PayRollManagementSystem.pdb
+C:\Users\DECAGON\source\repos\PayRollManagementSystem\PayRollManagementSystem\obj\Debug\net7.0\PayRollManagementSystem.csproj.AssemblyReference.cache
+C:\Users\DECAGON\source\repos\PayRollManagementSystem\PayRollManagementSystem\obj\Debug\net7.0\PayRollManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DECAGON\source\repos\PayRollManagementSystem\PayRollManagementSystem\obj\Debug\net7.0\PayRollManagementSystem.AssemblyInfoInputs.cache
+C:\Users\DECAGON\source\repos\PayRollManagementSystem\PayRollManagementSystem\obj\Debug\net7.0\PayRollManagementSystem.AssemblyInfo.cs
+C:\Users\DECAGON\source\repos\PayRollManagementSystem\PayRollManagementSystem\obj\Debug\net7.0\PayRollManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\DECAGON\source\repos\PayRollManagementSystem\PayRollManagementSystem\obj\Debug\net7.0\PayRollManagementSystem.dll
+C:\Users\DECAGON\source\repos\PayRollManagementSystem\PayRollManagementSystem\obj\Debug\net7.0\refint\PayRollManagementSystem.dll
+C:\Users\DECAGON\source\repos\PayRollManagementSystem\PayRollManagementSystem\obj\Debug\net7.0\PayRollManagementSystem.pdb
+C:\Users\DECAGON\source\repos\PayRollManagementSystem\PayRollManagementSystem\obj\Debug\net7.0\PayRollManagementSystem.genruntimeconfig.cache
+C:\Users\DECAGON\source\repos\PayRollManagementSystem\PayRollManagementSystem\obj\Debug\net7.0\ref\PayRollManagementSystem.dll
+C:\Users\DECAGON\source\repos\PayRollManagementSystem\PayRollManagementSystem\bin\Debug\net7.0\ConsoleTables.dll
+C:\Users\DECAGON\source\repos\PayRollManagementSystem\PayRollManagementSystem\obj\Debug\net7.0\PayRollManagementSystem.csproj.CopyComplete
+C:\Users\Decagon\Desktop\Succeed_Dev Decagon\Projects\PayRollManagementSystem\PayRollManagementSystem\obj\Debug\net7.0\PayRollManagementSystem.csproj.AssemblyReference.cache
+C:\Users\Decagon\Desktop\Succeed_Dev Decagon\Projects\PayRollManagementSystem\PayRollManagementSystem\obj\Debug\net7.0\PayRollManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon\Desktop\Succeed_Dev Decagon\Projects\PayRollManagementSystem\PayRollManagementSystem\obj\Debug\net7.0\PayRollManagementSystem.AssemblyInfoInputs.cache
+C:\Users\Decagon\Desktop\Succeed_Dev Decagon\Projects\PayRollManagementSystem\PayRollManagementSystem\obj\Debug\net7.0\PayRollManagementSystem.AssemblyInfo.cs
+C:\Users\Decagon\Desktop\Succeed_Dev Decagon\Projects\PayRollManagementSystem\PayRollManagementSystem\obj\Debug\net7.0\PayRollManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Decagon\Desktop\Succeed_Dev Decagon\Projects\PayRollManagementSystem\PayRollManagementSystem\obj\Debug\net7.0\PayRollManagementSystem.dll
+C:\Users\Decagon\Desktop\Succeed_Dev Decagon\Projects\PayRollManagementSystem\PayRollManagementSystem\obj\Debug\net7.0\refint\PayRollManagementSystem.dll
+C:\Users\Decagon\Desktop\Succeed_Dev Decagon\Projects\PayRollManagementSystem\PayRollManagementSystem\obj\Debug\net7.0\PayRollManagementSystem.pdb

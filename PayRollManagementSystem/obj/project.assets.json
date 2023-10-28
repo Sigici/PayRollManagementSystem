@@ -1,0 +1,112 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "ConsoleTables/2.5.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.1/ConsoleTables.dll": {
+            "related": ".pdb"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.1/ConsoleTables.dll": {
+            "related": ".pdb"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleTables/2.5.0": {
+      "sha512": "lfXLGH1coDInONveyIW5ufJWT/P5KbMRRV0cbR7CBnoZLNLZeTY51QUrAmtsX+gIWj7xlY9FSmg1sBYhXMmuuw==",
+      "type": "package",
+      "path": "consoletables/2.5.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Readme.md",
+        "consoletables.2.5.0.nupkg.sha512",
+        "consoletables.nuspec",
+        "icon.png",
+        "lib/netstandard2.1/ConsoleTables.dll",
+        "lib/netstandard2.1/ConsoleTables.pdb"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "ConsoleTables >= 2.5.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Decagon\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Decagon\\Desktop\\Succeed_Dev Decagon\\Projects\\PayRollManagementSystem\\PayRollManagementSystem\\PayRollManagementSystem.csproj",
+      "projectName": "PayRollManagementSystem",
+      "projectPath": "C:\\Users\\Decagon\\Desktop\\Succeed_Dev Decagon\\Projects\\PayRollManagementSystem\\PayRollManagementSystem\\PayRollManagementSystem.csproj",
+      "packagesPath": "C:\\Users\\Decagon\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Decagon\\Desktop\\Succeed_Dev Decagon\\Projects\\PayRollManagementSystem\\PayRollManagementSystem\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Decagon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "dependencies": {
+          "ConsoleTables": {
+            "target": "Package",
+            "version": "[2.5.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
